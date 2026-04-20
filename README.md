@@ -63,38 +63,34 @@ After cloning the repository, navigate to the project folder and run:
 streamlit run app.py
 The dashboard will open in your browser at http://localhost:8501
 
-Files in this Repository
-File	Purpose
-app.py	Main Streamlit dashboard application
-tmdb_5000_movies.csv	Dataset
-requirements.txt	Python package dependencies
-movie_analysis.ipynb	Jupyter notebook with detailed analysis
+### Files in this Repository
+| File | Purpose |
+|------|---------|
+| app.py | Main Streamlit dashboard application |
+| tmdb_5000_movies.csv | Dataset |
+| requirements.txt | Python package dependencies |
+| movie_analysis.ipynb | Jupyter notebook with detailed analysis |
 
 ## 6. Product Links
-Item	Link
-Demo Video	[YouTube link here]
-GitHub Repository	[Your GitHub repo link here]
+| Item | Link |
+|------|------|
+| Demo Video | [YouTube link here] |
+| GitHub Repository | [Your GitHub repo link here] |
 
 ## 7. Limitations & Future Work
-Current Limitations
-ROI calculation assumes reported budgets are accurate (marketing/distribution costs not included)
+### Current Limitations
+- ROI calculation assumes reported budgets are accurate (marketing/distribution costs not included)
+- Dataset ends in 2020, missing recent streaming‑era trends (2021‑2026)
+- Genre classification uses only primary genre (ignores hybrid categories)
+- Does not account for external factors (economic conditions, competition, seasonality)
 
-Dataset ends in 2020, missing recent streaming-era trends (2021-2026)
+### Future Improvements
+- Add production company analysis to identify most successful studios
+- Include sequel vs original movie comparison
+- Incorporate cast and director data for star‑power analysis
+- Add streaming revenue data for modern movie analysis
 
-Genre classification uses only primary genre (ignores hybrid categories)
-
-Does not account for external factors (economic conditions, competition, seasonality)
-
-Future Improvements
-Add production company analysis to identify most successful studios
-
-Include sequel vs original movie comparison
-
-Incorporate cast and director data for star-power analysis
-
-Add streaming revenue data for modern movie analysis
-
-Author
+### Author
 [Baodan.Zhang] - ACC102 Mini Assignment, Track 4 (Interactive Data Analysis Tool)
 
 Submission Date: April 24, 2026
