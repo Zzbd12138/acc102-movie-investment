@@ -58,9 +58,10 @@ Make sure you have Python installed. Then install dependencies:
 
 ```bash
 pip install streamlit pandas numpy matplotlib seaborn
-
+```
 ## Run the App
 After cloning the repository, navigate to the project folder and run:
+
 ```bash
 streamlit run app.py
 
