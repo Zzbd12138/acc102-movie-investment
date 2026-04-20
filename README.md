@@ -68,11 +68,13 @@ app.py	Main Streamlit dashboard application
 tmdb_5000_movies.csv	Dataset
 requirements.txt	Python package dependencies
 movie_analysis.ipynb	Jupyter notebook with detailed analysis
-6. Product Links
+
+## 6. Product Links
 Item	Link
 Demo Video	[YouTube link here]
 GitHub Repository	[Your GitHub repo link here]
-7. Limitations & Future Work
+
+## 7. Limitations & Future Work
 Current Limitations
 ROI calculation assumes reported budgets are accurate (marketing/distribution costs not included)
 
@@ -90,6 +92,7 @@ Include sequel vs original movie comparison
 Incorporate cast and director data for star-power analysis
 
 Add streaming revenue data for modern movie analysis
+
 Author
 [Baodan.Zhang] - ACC102 Mini Assignment, Track 4 (Interactive Data Analysis Tool)
 
