@@ -58,12 +58,14 @@ Make sure you have Python installed. Then install dependencies:
 
 ```bash
 pip install streamlit pandas numpy matplotlib seaborn
-Run the App
-After cloning the repository, navigate to the project folder and run:
-streamlit run app.py
-```
-The dashboard will open in your browser at http://localhost:8501
 
+## Run the App
+After cloning the repository, navigate to the project folder and run:
+```bash
+streamlit run app.py
+
+The dashboard will open in your browser at http://localhost:8501
+```
 ### Files in this Repository
 | File | Purpose |
 |------|---------|
