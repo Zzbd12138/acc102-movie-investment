@@ -79,7 +79,7 @@ streamlit run app.py
 | Item | Link |
 |------|------|
 | Demo Video | https://video.xjtlu.edu.cn/Mediasite/MyMediasite/presentations/66d77f45b20b44afa3fb39c3d3202b1a1d |
-| GitHub Repository |  |
+| GitHub Repository | https://github.com/Zzbd12138/acc102-movie-investment |
 
 ## 7. Limitations & Future Work
 ### Current Limitations
