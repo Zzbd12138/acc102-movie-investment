@@ -78,8 +78,8 @@ streamlit run app.py
 ## 6. Product Links
 | Item | Link |
 |------|------|
-| Demo Video | [YouTube link here] |
-| GitHub Repository | [Your GitHub repo link here] |
+| Demo Video | https://video.xjtlu.edu.cn/Mediasite/MyMediasite/presentations/66d77f45b20b44afa3fb39c3d3202b1a1d |
+| GitHub Repository |  |
 
 ## 7. Limitations & Future Work
 ### Current Limitations
